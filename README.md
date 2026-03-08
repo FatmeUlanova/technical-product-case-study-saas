@@ -39,6 +39,13 @@ FlowSecure is a **lightweight SaaS platform** that helps technical teams manage 
 - Reporting and operational insights
 
 The goal is to **reduce alert fatigue, streamline workflows, and improve response times**.
+## Product Workflow
+
+![Workflow Diagram](assets/workflow-diagram.png)
+
+## Product Roadmap
+
+![Product Roadmap](assets/roadmap.png)
 
 ---
 
